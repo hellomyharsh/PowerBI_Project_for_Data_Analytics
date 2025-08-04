@@ -4,7 +4,7 @@ This project contains a **Power BI dashboard** for analyzing the data job market
 
 
 ## Navigation
-- You can find the project in the **_Project_1** folder.
+- You can find the project in the **_Project_1** folder and GIF in **Resources/images** folder.
 
 ## Files
 - **README:** Detailed README for Data Jobs Dashboard Project.
